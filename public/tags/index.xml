@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 阿离·记事屋</title>
+    <link>https://github.com/Proudali/Proudali.github.io.git/tags/</link>
+    <description>Recent content in Tags on 阿离·记事屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© 2018</copyright>
+    
+	<atom:link href="https://github.com/Proudali/Proudali.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>心情</title>
+      <link>https://github.com/Proudali/Proudali.github.io.git/tags/%E5%BF%83%E6%83%85/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Proudali/Proudali.github.io.git/tags/%E5%BF%83%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>成长</title>
+      <link>https://github.com/Proudali/Proudali.github.io.git/tags/%E6%88%90%E9%95%BF/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Proudali/Proudali.github.io.git/tags/%E6%88%90%E9%95%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生日</title>
+      <link>https://github.com/Proudali/Proudali.github.io.git/tags/%E7%94%9F%E6%97%A5/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Proudali/Proudali.github.io.git/tags/%E7%94%9F%E6%97%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>节日</title>
+      <link>https://github.com/Proudali/Proudali.github.io.git/tags/%E8%8A%82%E6%97%A5/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Proudali/Proudali.github.io.git/tags/%E8%8A%82%E6%97%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>记录</title>
+      <link>https://github.com/Proudali/Proudali.github.io.git/tags/%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Proudali/Proudali.github.io.git/tags/%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

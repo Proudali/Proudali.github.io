@@ -1,0 +1,69 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "阿离·记事屋"
+  subtitle    = "阿离·随记"
+  copyright   = "© 2018"
+
+  cover       = "img/blog-cover.jpg"
+  description = "做一个洒脱的姑娘，往事不忆，旧事不提"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+
+  logo = "hugo-logo.png"
+  
+  orgName = "阿离"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "陪伴是最长情的告白"
+
+  author = "阿离"
+  authorAvatar = "hugo-logo.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "/"
+  authorDescription = "难过这种东西，难是难，但终究会过"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "心情"
+  url = "/tags/心情/"
+  weight = 100
+
+[[menu.main]]
+  name = "杂记"
+  url = "/Categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "相册"
+  url = "https://user.qzone.qq.com/814403596/4"
+  weight = 95
+
+[[menu.main]]
+  name = "邮箱"
+  url = "https://mail.qq.com/cgi-bin/frame_html?sid=3NCeoHA9riRxHi50&r=4f3fc0721dcc054734cea07549ea4015"
+  weight = 90
+
